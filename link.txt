@@ -1,1 +1,8 @@
 https://wordhtml.com/
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/tlkhoa81/Read-Notify-by-TTS.git
+git push -u origin main
